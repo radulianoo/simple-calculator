@@ -54,9 +54,13 @@ main .container .calculator form .display input {
     box-shadow: none;
 }
 
-#equal {
+main .container .calculator form .last-container .equal-sign {
     width: 145px;
 }
+
+/* #equal {
+    width: 145px;
+} */
 
 main .container .calculator form .operator {
     color: var(--operartorColor);
